@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java commercial projects
 
-[![TriXXXy13 GitHub stats](https://github-readme-stats.vercel.app/api?username=triXXXy13&show_icons=true&count_private=true)(https://github-readme-stats.vercel.app/api/top-langs/?username=triXXXy13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triXXXy13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TriXXXy13 GitHub stats](https://github-readme-stats.vercel.app/api?username=triXXXy13&show_icons=true&count_private=true&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triXXXy13&layout=compact)]
 
 
 
