@@ -3,15 +3,13 @@
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java commercial projects
 
-[![](https://github-readme-stats.vercel.app/api?username=triXXXy13&show_icons=true&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triXXXy13)]
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=triXXXy13&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=triXXXy13&layout=compact" />
-</a>
+<p align = 'center'>
+ <a href="https://github-readme-stats.vercel.app/api?username=triXXXy13&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=triXXXy13&show_icons=true&count_private=true" /></a>
+<a href="https://github.com/triXXXy13/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=triXXXy13&layout=compact" /></a>
+ </p>
+
+<p align='center'>
 
 
 
