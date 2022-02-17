@@ -12,6 +12,7 @@
 <p align='center'>
 
 
+ <a href="https://tryhackme.com/hackersahead/badges/network-fundamentals"></a>
 
 <!---
 triXXXy13/triXXXy13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
