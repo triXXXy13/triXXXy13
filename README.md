@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vladimir 
+- 👋 Hi, I’m Vladimir, Now I'm studying at the Moscow Polytechnic University 
 - 👀 I’m interested in in gaining commercial experience
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Java commercial projects
