@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vladimir, Now I'm studying at the Moscow Polytechnic University 
 - 👀 I’m interested in in gaining commercial experience
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Java commercial projects
+- 🌱 I’m currently learning information systems software development
+- 💞️ I’m looking to collaborate on Java, Python and Backend commercial projects
 
 
 <p align = 'center'>
